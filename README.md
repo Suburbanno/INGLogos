@@ -7,3 +7,4 @@ logos based on Ingress.
 - Adrian Korenic ([DabelCODY](https://plus.googleapis.com/+AdrianKorenic/))
 - Cory Hughart ([cr0ybot](https://github.com/cr0ybot))
 - Fev Games ([Fev Games](https://fevgames.net/))
+- dedo1911 ([dedo1911](https://dedo1911.xyz/Badges/))
